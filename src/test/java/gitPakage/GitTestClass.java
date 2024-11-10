@@ -1,7 +1,7 @@
 package gitPakage;
 
-public class GitPakage {
+public class GitTestClass {
 	public static void main(String[] args) {
-		System.out.println("Git Class");
+		System.out.println("TestClass");
 	}
 }
